@@ -1,0 +1,12 @@
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.csproj.AssemblyReference.cache
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.Form1.resources
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.csproj.GenerateResource.cache
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\bin\Debug\OilProjects.exe.config
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\bin\Debug\OilProjects.exe
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\bin\Debug\OilProjects.pdb
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\bin\Debug\Guna.UI2.dll
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.Properties.Resources.resources
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.csproj.CoreCompileInputs.cache
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.csproj.CopyComplete
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.exe
+C:\Users\imrea\OneDrive\Masaüstü\OilProjects-master\OilProjects-master\obj\Debug\OilProjects.pdb
